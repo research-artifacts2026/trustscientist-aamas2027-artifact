@@ -6,6 +6,16 @@ Code, recorded results and reproducibility materials for the current AAMAS draft
 The original files are split into three archives to fit browser upload limits. The
 core CBR engine is also directly viewable in `counterfactual_revalidation.py`.
 
+## Paper figures
+
+[Browse all paper figures](paper-figures/README.md). PDF, PNG and available SVG versions are directly accessible, with a source-to-manuscript manifest.
+
+![Evidence and branch revalidation](paper-figures/trustscientist_cbr_overview.png)
+
+![Certificate revalidation](paper-figures/fig_dynamic_outcomes.png)
+
+![SciFact matched coverage](paper-figures/fig_scifact_matched_coverage.png)
+
 ## Quick start
 
 Download or clone this repository, then unpack the archives (checks SHA256):
@@ -40,7 +50,7 @@ python visualizations/scripts/plot_current_results.py --data-dir visualizations
   original 405-event branch results.
 - `artifact-recorded-evidence.zip`: saved manifest, acquisition, semantic-gate,
   certificate, SciFact and fresh-execution records; archived model receipts.
-- `TrustScientist_technical_appendix.pdf`: the updated24-page appendix. The22-page appendix inside the original archive records the earlier release.
+- `TrustScientist_technical_appendix.pdf`: the updated 24-page appendix. The 22-page appendix inside the original archive records the earlier release.
 
 The complete extracted README gives the data layout and protocol boundaries.
 Recorded-output count recomputation is distinct from rerunning model inference.
