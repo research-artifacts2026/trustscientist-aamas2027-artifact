@@ -1,0 +1,280 @@
+{
+  "scope": "Figures referenced by the current main paper and appendix; files copied without visual edits.",
+  "figures": [
+    {
+      "latex_asset": "figures/trustscientist_cbr_overview.pdf",
+      "document": "Main paper",
+      "source_tex": "aamas2027.tex",
+      "files": [
+        "trustscientist_cbr_overview.pdf",
+        "trustscientist_cbr_overview.png",
+        "trustscientist_cbr_overview.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_dynamic_outcomes.pdf",
+      "document": "Main paper",
+      "source_tex": "aamas_dynamic_results.tex",
+      "files": [
+        "fig_dynamic_outcomes.pdf",
+        "fig_dynamic_outcomes.png",
+        "fig_dynamic_outcomes.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_scifact_matched_coverage.pdf",
+      "document": "Main paper",
+      "source_tex": "aamas2027.tex",
+      "files": [
+        "fig_scifact_matched_coverage.pdf",
+        "fig_scifact_matched_coverage.png"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_dynamic_shared_source_trace.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_dynamic_appendix.tex",
+      "files": [
+        "fig_dynamic_shared_source_trace.pdf",
+        "fig_dynamic_shared_source_trace.png",
+        "fig_dynamic_shared_source_trace.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_disambiguation_outcomes.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_disambiguation_appendix.tex",
+      "files": [
+        "fig_disambiguation_outcomes.pdf",
+        "fig_disambiguation_outcomes.png",
+        "fig_disambiguation_outcomes.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_current_maintenance.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_result_visualizations.tex",
+      "files": [
+        "fig_current_maintenance.pdf",
+        "fig_current_maintenance.png",
+        "fig_current_maintenance.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_current_semantic_control.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_result_visualizations.tex",
+      "files": [
+        "fig_current_semantic_control.pdf",
+        "fig_current_semantic_control.png",
+        "fig_current_semantic_control.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_current_manifest.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_result_visualizations.tex",
+      "files": [
+        "fig_current_manifest.pdf",
+        "fig_current_manifest.png",
+        "fig_current_manifest.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_current_scifact.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_result_visualizations.tex",
+      "files": [
+        "fig_current_scifact.pdf",
+        "fig_current_scifact.png",
+        "fig_current_scifact.svg"
+      ]
+    },
+    {
+      "latex_asset": "figures/fig_trajectory_cost.pdf",
+      "document": "Technical appendix",
+      "source_tex": "aamas_trajectory_appendix.tex",
+      "files": [
+        "fig_trajectory_cost.pdf",
+        "fig_trajectory_cost.png",
+        "fig_trajectory_cost.svg"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "trustscientist_cbr_overview.pdf",
+      "sha256": "175b5a1b1e3e0a2fb6a8df04cb90f5b2b36e4478956b63371a8e8dc1d969fe2e",
+      "latex_asset": "figures/trustscientist_cbr_overview.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "trustscientist_cbr_overview.png",
+      "sha256": "5255b1c69bf4da0f56e1e030fd93a1ae7c45fbb84ff327d2bbf36b172abe34f5",
+      "latex_asset": "figures/trustscientist_cbr_overview.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "trustscientist_cbr_overview.svg",
+      "sha256": "48a95f706a77167c14a52d87ad36f5ad92c2547f8c6c4b4cce13271e94a8b790",
+      "latex_asset": "figures/trustscientist_cbr_overview.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "fig_dynamic_outcomes.pdf",
+      "sha256": "a6bce319059ed92b92932d5d79b0d3881201972473e22a2dd3d2a1ac38ae8bc1",
+      "latex_asset": "figures/fig_dynamic_outcomes.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "fig_dynamic_outcomes.png",
+      "sha256": "1c7e7b5ef1dcf904093e9b93ebc6793485ee29176dd2cc6b5321b54054fc8d84",
+      "latex_asset": "figures/fig_dynamic_outcomes.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "fig_dynamic_outcomes.svg",
+      "sha256": "b3ba8b7afa653fc0dd2a703b804061b25902e1d3e7e0a89d196688e201100271",
+      "latex_asset": "figures/fig_dynamic_outcomes.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "fig_scifact_matched_coverage.pdf",
+      "sha256": "788620c07db85d8d59979e3199d9375db21ce4ed1de19943ad25a217a5daa50f",
+      "latex_asset": "figures/fig_scifact_matched_coverage.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "fig_scifact_matched_coverage.png",
+      "sha256": "7f635b3d4466b5e125a544b935c9e50801b0a172baa9b88365325c08b799e216",
+      "latex_asset": "figures/fig_scifact_matched_coverage.pdf",
+      "document": "Main paper"
+    },
+    {
+      "file": "fig_dynamic_shared_source_trace.pdf",
+      "sha256": "b87f91107ba948d5ba7ff0c4d214fab8c64e4ce3bd14289a7817209f732893a6",
+      "latex_asset": "figures/fig_dynamic_shared_source_trace.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_dynamic_shared_source_trace.png",
+      "sha256": "e2526398622c008bd45eb96654b540ca0a35ec494dda035cdef2bbd538a87563",
+      "latex_asset": "figures/fig_dynamic_shared_source_trace.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_dynamic_shared_source_trace.svg",
+      "sha256": "6339df0a38e01a071f1acbcf0230906da994d66a781be27ff6244d79aeb13fac",
+      "latex_asset": "figures/fig_dynamic_shared_source_trace.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_disambiguation_outcomes.pdf",
+      "sha256": "c18deef93052b25d19cbf373c01686703b1b6c1d847ceda79d94056fe9a7af61",
+      "latex_asset": "figures/fig_disambiguation_outcomes.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_disambiguation_outcomes.png",
+      "sha256": "6ac0bbaa43ca56617f4ea062a17a860c2af7a0f3d418f47d9c473738eb348e26",
+      "latex_asset": "figures/fig_disambiguation_outcomes.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_disambiguation_outcomes.svg",
+      "sha256": "2f43cf669810c3dc869d56568d96199e55ca070a4f00df00d31f802ee2dac53f",
+      "latex_asset": "figures/fig_disambiguation_outcomes.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_maintenance.pdf",
+      "sha256": "44f5c1e829740d5c3a25a1613e124e7f93eb2cbebf2441bafa780ac5f7b969c7",
+      "latex_asset": "figures/fig_current_maintenance.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_maintenance.png",
+      "sha256": "5d2c20c313a640984f6868b52010b23a757daad2dc425e1ed8562839b11cb04f",
+      "latex_asset": "figures/fig_current_maintenance.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_maintenance.svg",
+      "sha256": "f1fff14097b1d1df90a7ca2b90a36205719a2dc3471db7c1d4a205c15d74fcec",
+      "latex_asset": "figures/fig_current_maintenance.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_semantic_control.pdf",
+      "sha256": "dbd0f3ec63be35720faa1e27333c805d844b357aa63c8397176f222266e0c35d",
+      "latex_asset": "figures/fig_current_semantic_control.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_semantic_control.png",
+      "sha256": "6fbafcbd184a7027b419931c462c7dacd2ebf966f6c1731148ef169c74961bea",
+      "latex_asset": "figures/fig_current_semantic_control.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_semantic_control.svg",
+      "sha256": "54f6b499ef874eb47e8fc58a099eb12886195f6c48fb9a1604ba9876df86887a",
+      "latex_asset": "figures/fig_current_semantic_control.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_manifest.pdf",
+      "sha256": "150afc8c041a7f4c57185dfe86a9b37e34d4a82d5a8d3e7c45783bfdb7a3ef4e",
+      "latex_asset": "figures/fig_current_manifest.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_manifest.png",
+      "sha256": "f07589f51bf4c6717e0171ab4483e2c3b4dc8480c38a6d8004f88d38cd545545",
+      "latex_asset": "figures/fig_current_manifest.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_manifest.svg",
+      "sha256": "866a28b3bb1adb91717964fc14d4c5c8d6724f71cdbb1f6df33d4399dd7d3145",
+      "latex_asset": "figures/fig_current_manifest.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_scifact.pdf",
+      "sha256": "bd31532ede983ac70d52ae7d415d02444bac1c08355fb016d4d73f4eed9e68c5",
+      "latex_asset": "figures/fig_current_scifact.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_scifact.png",
+      "sha256": "5951435add9e31391cabb85c0d5f7f4f3005b4ecd933e33339bf6393010356d8",
+      "latex_asset": "figures/fig_current_scifact.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_current_scifact.svg",
+      "sha256": "4ca406c481d912ae79a3d5c2eaf4b526afd2eec8d61a06f60b3f57bb355ef432",
+      "latex_asset": "figures/fig_current_scifact.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_trajectory_cost.pdf",
+      "sha256": "8e3094051268b47d976112834e16f7d985cc63555b2ad200aa61650e65f4e095",
+      "latex_asset": "figures/fig_trajectory_cost.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_trajectory_cost.png",
+      "sha256": "e10230de793933ae3fff7969ecf2b7af2dc54fb0d1f7130213ff3bae85a6d4f0",
+      "latex_asset": "figures/fig_trajectory_cost.pdf",
+      "document": "Technical appendix"
+    },
+    {
+      "file": "fig_trajectory_cost.svg",
+      "sha256": "ace377d7260ebc04af12cee65789746f3bc562edc8818ce22b6b0f84e1f3e9a3",
+      "latex_asset": "figures/fig_trajectory_cost.pdf",
+      "document": "Technical appendix"
+    }
+  ]
+}
