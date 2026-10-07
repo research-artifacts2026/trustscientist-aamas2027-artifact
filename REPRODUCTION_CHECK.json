@@ -7,5 +7,21 @@
   "recorded_output_count_checks": "passed across all displayed studies",
   "published_source_archives": "byte-verified; unpacking and count checker pass",
   "anonymous_mirror_code_archive": "byte-identical to verified source",
-  "new_model_inference": false
+  "new_model_inference": false,
+  "long_trajectory": {
+    "histories": 36,
+    "paired_updates": 216,
+    "independent_prediction_score_checks": 7128,
+    "portable_archive_unpack_and_score": "PASS on Linux",
+    "new_foundation_model_calls": 0,
+    "scope": "scripted actual analyses and controlled updates"
+  },
+  "deduplicated_package": {
+    "source_sha256": "265a5ce6cd166aaa22d8730a236f1f1218032c54f2d943dfc2cc618b299885b3",
+    "files": 70225,
+    "unique_blobs": 4390,
+    "pack_bytes": 10250587,
+    "pack_sha256": "a4018f97a3ff97fd63ec6963b661af23dcebd8ac2383ff3662ce743542841ca5",
+    "byte_identical_roundtrip": "PASS"
+  }
 }
