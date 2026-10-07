@@ -1,6 +1,8 @@
 # TrustScientist: anonymous research artifact
 
 Code, recorded results and reproducibility materials for the current AAMAS draft.
+
+[Anonymous reviewer mirror](https://anonymous.4open.science/r/trustscientist-aamas2027-artifact-26CC/)
 The files are split into three archives to fit browser upload limits. The
 core CBR engine is also directly viewable in `counterfactual_revalidation.py`.
 

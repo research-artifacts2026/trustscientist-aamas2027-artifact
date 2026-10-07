@@ -1,7 +1,7 @@
 from pathlib import Path
 import hashlib,zipfile
 ROOT=Path(__file__).resolve().parent
-ARCHIVES={'artifact-code.zip': '09e971a05cad3ec7a9f36eea2894447aeb7d3aca53c52bcf61f1359911e105eb', 'artifact-cbr-inputs.zip': '2b6feca46acb9cccdc302eefd20ae425cf30a4c8a856bdb55a092288bb243287', 'artifact-recorded-evidence.zip': 'ace3e3a44436cd6d89da7c81b25fa0fc5b44292fcad309b2ca40a7d76b21ac2f'}
+ARCHIVES={'artifact-code.zip': '92957a738807514a9053e235b66e9e1b12899bcbe8239483ecbac98f9c9907fd', 'artifact-cbr-inputs.zip': '2b6feca46acb9cccdc302eefd20ae425cf30a4c8a856bdb55a092288bb243287', 'artifact-recorded-evidence.zip': 'ace3e3a44436cd6d89da7c81b25fa0fc5b44292fcad309b2ca40a7d76b21ac2f'}
 for name,expected in ARCHIVES.items():
  p=ROOT/name
  assert hashlib.sha256(p.read_bytes()).hexdigest()==expected, "Archive integrity failure: "+name

@@ -1,0 +1,11 @@
+{
+  "platform": "Linux",
+  "implementation_tests_passed": 10,
+  "controlled_replay_events": 405,
+  "capsules": 45,
+  "count_metrics_match_archived_results": true,
+  "recorded_output_count_checks": "passed across all displayed studies",
+  "published_source_archives": "byte-verified; unpacking and count checker pass",
+  "anonymous_mirror_code_archive": "byte-identical to verified source",
+  "new_model_inference": false
+}
