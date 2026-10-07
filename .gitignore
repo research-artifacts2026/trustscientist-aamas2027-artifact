@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.pem
+*.key
+results/
+workspaces/
+summary.json
+records.json
+*.log
